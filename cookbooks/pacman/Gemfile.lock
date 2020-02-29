@@ -71,7 +71,7 @@ GEM
     polyglot (0.3.3)
     powerpack (0.0.9)
     rainbow (1.1.4)
-    rake (10.1.0)
+    rake (13.0.1)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     rspec (2.14.1)
